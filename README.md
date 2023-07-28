@@ -6,4 +6,4 @@ Hey Folks! I'm Sourabh!
 - 📫 How to reach me: [Sourabh Ligade](https://sourabhligade07.wixsite.com/ligade) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
 - ⚡ Fun fact: I'm a professional Footballer!
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhligade&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhligade&layout=compact)

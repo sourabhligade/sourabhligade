@@ -5,7 +5,7 @@ Hey Folks! I'm Sourabh!
 - 💬 Ask me about Anthing related Python .
 - 📝 Blogs on [Sourabh Ligade Blogs](http://sourabhligade.pythonanywhere.com)
 - 👨‍💻 All of my projects are available at [Sourabh Ligade](https://sourabhligade07.wixsite.com/ligade)
-- 💬 Competitive Programming[Leetcode](https://leetcode.com/sourabhligade/)
+- 💬 Competitive Programming [Leetcode](https://leetcode.com/sourabhligade/)
 - 📫 How to reach me: [Sourabh Ligade](https://sourabhligade07.wixsite.com/ligade) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
 - ⚡ Fun fact: I'm a professional Footballer!
 

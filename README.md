@@ -21,8 +21,3 @@
 <a href="https://www.leetcode.com/sourabhligade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabhligade" height="30" width="40" /></a>
 <a href="https://twitter.com/sourabhligade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabhligade" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhligade&show_icons=true&locale=en" alt="sourabhligade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourabhligade&" alt="sourabhligade" /></p>
-

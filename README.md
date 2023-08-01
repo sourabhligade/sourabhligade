@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sourabh Ligade</h1>
 <h3 align="center">Python Developer</h3>
 
-- 🔭 I’m currently working on a interesting python project.
+- 🔭 I’m currently working on an interesting python project.
 - 🌱 I’m currently learning Python and React
 - 👯 I’m looking to collaborate on cool Python ideas 
-- 💬 Ask me about Anthing related Python .
+- 💬 Ask me about anthing related to Python .
 - 📝 Blogs on [Sourabh Ligade Blogs](http://sourabhligade.pythonanywhere.com)
 - 👨‍💻 All of my projects are available at [Sourabh Ligade](https://sourabhligade07.wixsite.com/ligade)
 - 💬 Competitive Programming [Leetcode](https://leetcode.com/sourabhligade/)

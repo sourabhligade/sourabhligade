@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Ligade</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on an interesting python project.
 - 🌱 I’m currently learning Python and React

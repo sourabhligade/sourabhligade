@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on an interesting python project.
-- 🌱 I’m currently learning Python and React
+- 🌱 I’m currently learning React and trying to get better at DSA
 - 👯 I’m looking to collaborate on cool Python ideas 
 - 💬 Ask me about anthing related to Python .
 - 📝 Blogs on [Sourabh Ligade Blogs](http://sourabhligade.pythonanywhere.com)

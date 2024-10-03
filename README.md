@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sourabh Ligade</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working as Machine Learning Intern at Yhworks
 - 🌱 I’m currently learning React and trying to get better at DSA
 - 👯 I’m looking to collaborate on computer vision and machine learning projects.
 - 💬 Ask me about anthing related to Python .

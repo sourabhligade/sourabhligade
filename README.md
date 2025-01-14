@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Ligade</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">I try to build things im curious about</h3>
 
 - 🌱 I’m currently learning React and trying to get better at DSA
 - 👯 I’m looking to collaborate on computer vision and machine learning projects.

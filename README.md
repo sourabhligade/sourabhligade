@@ -2,11 +2,10 @@
 <h3 align="center">I try to build things im curious about</h3>
 
 - 🌱 I’m currently learning React and trying to get better at DSA
-- 👯 I’m looking to collaborate on computer vision and machine learning projects.
 - 💬 Ask me about anthing related to Python .
 - 📝 Blogs on [Sourabh Ligade Blogs](https://medium.com/@sourabhligade07)
 - 💬 Competitive Programming [Leetcode](https://leetcode.com/sourabhligade/)
-- 📫 How to reach me: [Sourabh Ligade](https://sourabhligade07.wixsite.com/ligade) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
+- 📫 How to reach me:  [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
 - ⚡ Fun fact: I'm a professional Footballer!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhligade&layout=compact)

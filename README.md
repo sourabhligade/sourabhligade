@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React and trying to get better at DSA
 - 💬 Ask me about anthing related to Python .
-- 📝 Blogs on [Sourabh Ligade Blogs](https://medium.com/@sourabhligade07)
+- 📝 Blogs on [Sourabh Ligade Blogs]([https://medium.com/@sourabhligade07](https://sourabh-ligade.vercel.app/blog))
 - 💬 Competitive Programming [Leetcode](https://leetcode.com/sourabhligade/)
 - 📫 How to reach me:  [Personal](https://sourabh-ligade.vercel.app) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
 

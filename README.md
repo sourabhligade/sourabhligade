@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sourabh Ligade</h1>
 <h3 align="center">I try to build things im curious about</h3>
 
-- 🌱 I’m currently learning React and trying to get better at DSA
 - 💬 Ask me about anthing related to Python .
 - 📝 Blogs on [Sourabh Ligade Blogs](https://sourabh-ligade.vercel.app/blog)
-- 💬 Competitive Programming [Leetcode](https://leetcode.com/sourabhligade/)
 - 📫 How to reach me:  [Personal](https://sourabh-ligade.vercel.app) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhligade&layout=compact)

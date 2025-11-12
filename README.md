@@ -2,8 +2,8 @@
 <h3 align="center">I try to build things im curious about</h3>
 
 - 💬 Ask me about anthing related to Python .
-- 📝 Blogs on [Sourabh Ligade Blogs](https://sourabh-ligade.vercel.app/blog)
-- 📫 How to reach me:  [Personal](https://sourabh-ligade.vercel.app) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
+- 📝 Blogs on [Sourabh Ligade Blogs](https://sourabhligade.com/blog)
+- 📫 How to reach me:  [Personal](https://sourabhligade.com) | [Twitter](https://twitter.com/SourabhLigade) | [LinkedIn](https://www.linkedin.com/in/ligade24/) | [Kaggle](https://www.kaggle.com/saurabhl/following)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhligade&layout=compact)
 <h3 align="left">Languages and Tools:</h3>

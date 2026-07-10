@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sourabh Ligade</h1>
-<h3 align="center">I try to build things im curious about</h3>
+<h1 align="center">Hi 👋, I'm Sourabh Ligade</h1> <h4 align="center">Software Engineering Specialist at <a href="https://x.ai" target="_blank">SpaceXAI (formerly xAI)</a></h4> <h3 align="center">I try to build things I’m curious about</h3>
 
 - 💬 Ask me about anything related to Python.
 - 📝 Blogs on [Sourabh Ligade Blogs](https://sourabhligade.com/blog)
